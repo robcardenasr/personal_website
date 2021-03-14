@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-## submitted
+## Submitted
 *  **Cardenas-Retamal, R.**, Dresdner, J. & Ceballos-Concha, A.: _"Impact assessment of salmon farming on income distribution in remote coastal areas: The Chilean case."_ Currently in review and resubmit in Food Policy Journal.
 *  Salazar, C. **Cárdenas-Retamal, R.**, Jaime, M. _"Environmental efficiency in the salmon industry. An exploratory analysis around the ISA virus and subsequent regulations in Chile"._ Under Review in Environment, Development and Sustainability
 
