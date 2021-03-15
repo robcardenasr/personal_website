@@ -12,7 +12,7 @@ My interests are in economic development (in a broad sense) and sustainability. 
 
 [Research](./another-page.html).  
 
-[get the PDF]({{ https://robcardenasr.github.io/personal_website/ }}/cv_CardenasRetamal - Ingles.pdf)
+[CV]({{ https://robcardenasr.github.io/personal_website/ }}/assets/cv_CardenasRetamal - Ingles.pdf)
 
 [![alt text][1.1]][1]
 
