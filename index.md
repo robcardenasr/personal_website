@@ -12,6 +12,8 @@ My interests are in economic development (in a broad sense) and sustainability. 
 
 [Research](./another-page.html).  
 
+[CV](./cv_CardenasRetamal - Ingles.pdf)
+
 
 [![alt text][1.1]][1]
 
