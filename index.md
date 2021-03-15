@@ -12,5 +12,6 @@ My interests are in economic development (in a broad sense) and sustainability. 
 
 [Research](./another-page.html).  
 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-
+[1]: https://twitter.com/rocardenasr
