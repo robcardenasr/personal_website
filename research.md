@@ -5,7 +5,7 @@ layout: default
 # Research
 
 ## Submitted
-1.  **"Impact assessment of salmon farming on income distribution in remote coastal areas: The Chilean case."**. With Jorge Dresdner and Adams Ceballos-Concha. [Currently in review and resubmit in Food Policy Journal]{color="blue"}.
+1.  **"Impact assessment of salmon farming on income distribution in remote coastal areas: The Chilean case."**. With Jorge Dresdner and Adams Ceballos-Concha. Currently in review and resubmit in Food Policy Journal{: .gitlab-purple}
 
 2. **"Environmental efficiency in the salmon industry. An exploratory analysis around the ISA virus and subsequent regulations in Chile"**. With  César Salazar and Mónica M. Jaime. Under Review in Environment, Development and Sustainability
 
