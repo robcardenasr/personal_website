@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-###Published 
+### Published 
 
 1.  **"Impact assessment of salmon farming on income distribution in remote coastal areas: The Chilean case."**. With Jorge Dresdner and Adams Ceballos-Concha. <span style="color:blue">Forthcoming in Food Policy Journal.</span>.
 
