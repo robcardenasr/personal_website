@@ -12,8 +12,8 @@ layout: default
 
 1. **"Environmental efficiency in the salmon industry. An exploratory analysis around the ISA virus and subsequent regulations in Chile"**. With  César Salazar and Mónica M. Jaime. <span style="color:blue">Review & Resubmit in Environment, Development and Sustainability</span>.
 
-2.  **"Intrahousehold Bargaining Power and Time Allocation for Multiple Activities"**. With Manuel Barrientos, Felipe Vasquez-Lavin and Roberto D. Ponce. <span style="color:blue">Submitted to Feminist Economics</span>.
-3.  **"Research in Economics. The case of chilean economics schools between 1963 and 1983"**. With Daniel Barrales and Vicente Olavarría André. <span style="color:blue">Submitted to History of Political Economy</span>.
+2.  **"Intrahousehold Bargaining Power and Time Allocation for Multiple Activities"**. With Manuel Barrientos, Felipe Vasquez-Lavin and Roberto D. Ponce. <span style="color:blue">Under review in Feminist Economics</span>.
+3.  **"Research in Economics. The case of chilean economics schools between 1963 and 1983"**. With Daniel Barrales and Vicente Olavarría André. <span style="color:blue">Under review in History of Political Economy</span>.
 
 
 ### Working papers  
